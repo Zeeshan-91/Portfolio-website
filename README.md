@@ -3,7 +3,6 @@
 This is my **personal portfolio website** built to showcase my **skills, projects, and experience** as a web developer.  
 The site highlights my work in **React.js, Flutter, PHP, HTML, CSS, and JavaScript**, and also includes my contact information and social links.
 
----
 
 ## 🚀 Features
 
@@ -12,9 +11,6 @@ The site highlights my work in **React.js, Flutter, PHP, HTML, CSS, and JavaScri
 - 🧩 Built with modern web technologies  
 - ⚡ Fast loading and optimized for performance  
 - 📨 Contact form integrated with backend API or email service  
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend:** React.js, HTML, CSS, JavaScript  
